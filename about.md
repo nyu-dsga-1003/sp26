@@ -49,7 +49,7 @@ Each week will feature a short homework assignment, intended to reinforce concep
 
 - Homeworks: 20%
 - Midterm Exam: 35%
-- Final Project: 45%
+- Final Project: 35%
 - Lab Attendance: 10%
 
 More details about the final project will be provided as the semester progresses!
