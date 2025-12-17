@@ -1,5 +1,5 @@
 ---
-title: Week 10: Modern: Learnable Features → Deep Neural Networks
+title: "Week 10: Modern: Learnable Features → Deep Neural Networks"
 ---
 
 Mar 24

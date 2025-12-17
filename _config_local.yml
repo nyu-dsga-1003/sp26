@@ -1,0 +1,6 @@
+# Local development overrides
+# Run with: bundle exec jekyll serve --config _config.yml,_config_local.yml
+
+# Local URLs (override production settings)
+baseurl: ''
+url: 'http://localhost:4000'

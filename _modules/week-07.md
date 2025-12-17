@@ -1,5 +1,5 @@
 ---
-title: Week 7: Classics: Decision Trees (Bagging and Random Forests)
+title: "Week 7: Classics: Decision Trees (Bagging and Random Forests)"
 ---
 
 Mar 3

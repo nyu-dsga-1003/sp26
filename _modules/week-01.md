@@ -1,5 +1,5 @@
 ---
-title: Week 1: Foundations: Assumption, Optimization, Generalization
+title: "Week 1: Foundations: Assumption, Optimization, Generalization"
 ---
 
 Jan 20

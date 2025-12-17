@@ -1,5 +1,5 @@
 ---
-title: Week 2: kNN (ML Pipeline, Model Selection)
+title: "Week 2: kNN (ML Pipeline, Model Selection)"
 ---
 
 Jan 27

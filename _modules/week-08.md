@@ -1,5 +1,5 @@
 ---
-title: Week 8: Classics: Boosting (Gradient Boosting)
+title: "Week 8: Classics: Boosting (Gradient Boosting)"
 ---
 
 Mar 10

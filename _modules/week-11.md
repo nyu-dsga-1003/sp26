@@ -1,5 +1,5 @@
 ---
-title: Week 11: Modern: Structured Neural Networks
+title: "Week 11: Modern: Structured Neural Networks"
 ---
 
 Mar 31

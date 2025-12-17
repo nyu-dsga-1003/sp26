@@ -1,5 +1,5 @@
 ---
-title: Week 3: Linear Regression (Optimization and Regularization)
+title: "Week 3: Linear Regression (Optimization and Regularization)"
 ---
 
 Feb 3

@@ -22,8 +22,9 @@ url: 'https://nyu-dsga-1003.github.io' # the base hostname & protocol for your s
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.10.1
-# theme: just-the-docs  # Use for local development
+# For local development, use the theme gem:
+theme: just-the-docs
+# For GitHub Pages, the workflow uses _config_production.yml which sets remote_theme
 color_scheme: light
 search_enabled: true
 heading_anchors: true

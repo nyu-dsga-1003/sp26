@@ -1,5 +1,5 @@
 ---
-title: Week 14: Modern: Reinforcement Learning
+title: "Week 14: Modern: Reinforcement Learning"
 ---
 
 Apr 21

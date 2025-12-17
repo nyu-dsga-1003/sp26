@@ -1,5 +1,5 @@
 ---
-title: Week 4: Classics: Perceptron (Features and Kernels)
+title: "Week 4: Classics: Perceptron (Features and Kernels)"
 ---
 
 Feb 10

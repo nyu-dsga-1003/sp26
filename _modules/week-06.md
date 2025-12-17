@@ -1,5 +1,5 @@
 ---
-title: Week 6: Classics: Logistic Regression (MLE and Conditional Probability Models)
+title: "Week 6: Classics: Logistic Regression (MLE and Conditional Probability Models)"
 ---
 
 Feb 24

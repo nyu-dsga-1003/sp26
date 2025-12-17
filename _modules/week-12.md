@@ -1,5 +1,5 @@
 ---
-title: Week 12: Modern: Generative Models
+title: "Week 12: Modern: Generative Models"
 ---
 
 Apr 7

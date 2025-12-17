@@ -1,5 +1,5 @@
 ---
-title: Week 9: Midterm (In Class)
+title: "Week 9: Midterm (In Class)"
 ---
 
 Mar 17
