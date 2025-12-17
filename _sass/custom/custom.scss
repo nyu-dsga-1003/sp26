@@ -7,11 +7,86 @@
 @import 'schedule';
 @import 'staffer';
 
+// NYU Color Scheme
+$nyu-purple: #5C0F8A; // RGB(92,15,138)
+
 // Overrides
 code {
   font-size: 14px;
   padding: 0.2em 0.4em;
   border: none;
+}
+
+// NYU Branding
+a {
+  color: $nyu-purple;
+  
+  &:hover {
+    color: lighten($nyu-purple, 15%);
+  }
+  
+  &:visited {
+    color: darken($nyu-purple, 5%);
+  }
+}
+
+.btn-primary {
+  background-color: $nyu-purple;
+  border-color: $nyu-purple;
+  
+  &:hover {
+    background-color: lighten($nyu-purple, 10%);
+    border-color: lighten($nyu-purple, 10%);
+  }
+}
+
+.btn-outline {
+  color: $nyu-purple;
+  border-color: $nyu-purple;
+  
+  &:hover {
+    background-color: $nyu-purple;
+    color: white;
+  }
+}
+
+.site-title {
+  font-size: 0.9rem !important;
+  line-height: 1.3 !important;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  
+  a {
+    color: $nyu-purple;
+    display: block;
+    word-break: break-word;
+  }
+}
+
+.nav-list .nav-list-item .nav-list-link.active {
+  color: $nyu-purple;
+  font-weight: 600;
+}
+
+.nav-list .nav-list-item .nav-list-link:hover {
+  color: $nyu-purple;
+}
+
+// Hide top right navbar (aux links)
+.aux-nav {
+  display: none !important;
+}
+
+// Customize search bar
+.search-input {
+  &::placeholder {
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  &:focus {
+    border-color: $nyu-purple;
+    box-shadow: 0 0 0 3px rgba(92, 15, 138, 0.1);
+  }
 }
 
 iframe {
