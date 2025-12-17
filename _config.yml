@@ -17,13 +17,13 @@ title: "NYU DS-GA 1003: Machine Learning (Spring 2026)"
 tagline: Machine Learning
 description: "NYU DS-GA 1003: Machine Learning (Spring 2026)"
 author: NYU
-baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/sp26' # the subpath of your site, e.g. /blog
+url: 'https://nyu-dsga-1003.github.io' # the base hostname & protocol for your site
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
-# remote_theme: just-the-docs/just-the-docs@v0.10.1
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+# theme: just-the-docs  # Use for local development
 color_scheme: light
 search_enabled: true
 heading_anchors: true
