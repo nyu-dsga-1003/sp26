@@ -1,6 +1,9 @@
 ---
-title: "Week 15: Review"
+title: "Week 15: Language Models"
 ---
 
-May 5
-: Review (Last day of class)
+Apr 28
+: **Lecture**{: .label .label-purple }
+
+Apr 30
+: **Lab**{: .label .label-purple }

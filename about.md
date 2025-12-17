@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: home
 title: About
+permalink: /
 description: >-
     Course policies and information.
 ---
@@ -18,16 +19,37 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+The focus of this course is a graduate-level introduction to machine learning with a focus on supervised learning and pattern recognition (which we argue is the bedrock of most modern advances in the field). We try to present machine learning as a cohesive story where algorithms drop out of natural, specific assumptions about data. One might think of this story as how we, as a field, successively “generalized” our assumptions for how algorithmic techniques could process different types of data, culminating with our data being “internet-scale human language.” 
 
-## Lecture
+To do this, after the first couple foundational weeks, each week highlights a specific epistemic assumption about how our data is “generated,” and algorithms drop out of those assumptions. As a result, students should come away understanding not only which algorithms exist and are most useful in modern machine learning, but also the context and conditions that motivate each algorithm. Given the right assumptions, pattern recognition is possible; one way to view the story of machine learning is the evolution of such assumptions and how we’ve formalized these assumptions into algorithms.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+A key “subplot” is the proliferation of data as historically driving machine learning progress and how it has obviated considerations of bias-variance “tradeoffs”. As we’ve hit upon more and more available data to train models, we could relax our inductive biases more and more. Another goal of this course is to make very clear how all these algorithms are positioned in this story in terms of their inductive bias vs. variance, and how the proliferation of large-scale data has naturally led us to our current, modern techniques.
+
+## Lecture & Labs
+
+- Lectures will be held on Tuesdays, from 2:45-4:45PM 
+- Labs will be held on Thursdays, from 7:10-8PM
 
 ## Resources
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+The course does not have any official or required textbooks. However, we recommend the following optional resources:
 
-## Assignments
+- _Pattern Classification_, by Duda, Hardt, Stork
+- _A Probabilistic Theory of Pattern Recognition_ by Devroye, Gyorfi, Lugosi
+- [_Patterns, Predictions, and Actions_](https://mlstory.org) by Recht and Hardt
+- _Understanding Machine Learning_ by Shalev-Shwartz and Ben-David
+- _Boosting_ by Schapire and Freund
+- [Daniel Hsu’s Machine Learning Course](https://www.cs.columbia.edu/~djhsu/coms4771-f25/)
+- [Kyunghyun Cho’s Lecture Notes on Machine Learning](https://arxiv.org/pdf/2505.03861)
+- Tom Mitchell’s [“Key Ideas in Machine Learning”](https://www.cs.cmu.edu/~tom/mlbook/keyIdeas.pdf)
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+## Assessment
+
+Each week will feature a short homework assignment, intended to reinforce concepts from lecture. We will also have a midterm exam, as well as a final project. The grading breakdown is as follows:
+
+- Homeworks: 20%
+- Midterm Exam: 35%
+- Final Project: 45%
+- Lab Attendance: 10%
+
+More details about the final project will be provided as the semester progresses!

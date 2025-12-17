@@ -1,9 +1,9 @@
 ---
-title: "Week 7: Classics: Decision Trees (Bagging and Random Forests)"
+title: "Week 7: Decision Trees (Bagging and Random Forests)"
 ---
 
 Mar 3
-: Classics: Decision Trees (Bagging and Random Forests)
+: **Lecture**{: .label .label-purple }
 
 Mar 5
-: **Lab**{: .label .label-purple } Topic TBD
+: **Lab**{: .label .label-purple }

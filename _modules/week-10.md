@@ -1,9 +1,9 @@
 ---
-title: "Week 10: Modern: Learnable Features → Deep Neural Networks"
+title: "Week 10: Midterm"
 ---
 
 Mar 24
-: Modern: Learnable Features → Deep Neural Networks
+: **Midterm (In Class)**
 
 Mar 26
-: **Lab**{: .label .label-purple } Topic TBD
+: No lab this week! 

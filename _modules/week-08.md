@@ -1,9 +1,9 @@
 ---
-title: "Week 8: Classics: Boosting (Gradient Boosting)"
+title: "Week 8: Boosting (Gradient Boosting)"
 ---
 
 Mar 10
-: Classics: Boosting (Gradient Boosting)
+: **Lecture**{: .label .label-purple }
 
 Mar 12
-: **Lab**{: .label .label-purple } Topic TBD
+: **Lab**{: .label .label-purple }

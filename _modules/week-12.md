@@ -1,9 +1,9 @@
 ---
-title: "Week 12: Modern: Generative Models"
+title: "Week 12: Structured Neural Networks"
 ---
 
 Apr 7
-: Modern: Generative Models
+: **Lecture**{: .label .label-purple }
 
 Apr 9
-: **Lab**{: .label .label-purple } Topic TBD
+: **Lab**{: .label .label-purple }

@@ -1,9 +1,9 @@
 ---
-title: "Week 9: Midterm (In Class)"
+title: "Week 9: Spring Break (Mar 16-20)"
 ---
 
 Mar 17
-: **Spring Break: No Class (Mar 16-20)**
+: No class this week! 
 
 Mar 19
-: **Spring Break: No Class (Mar 16-20)**
+: No lab this week!

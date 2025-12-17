@@ -1,9 +1,9 @@
 ---
-title: "Week 1: Foundations: Assumption, Optimization, Generalization"
+title: "Week 1: Intro (Assumptions, Optimization, and Generalization)"
 ---
 
 Jan 20
-: Foundations: Assumption, Optimization, Generalization
+: **Lecture**{: .label .label-purple }
 
 Jan 22
-: **Lab**{: .label .label-purple } Topic TBD
+: **Lab**{: .label .label-purple }

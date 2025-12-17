@@ -19,7 +19,7 @@ description: "NYU DS-GA 1003: Machine Learning (Spring 2026)"
 author: NYU
 baseurl: '/sp26' # the subpath of your site, e.g. /blog
 url: 'https://nyu-dsga-1003.github.io' # the base hostname & protocol for your site
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
 # For local development, use the theme gem:
@@ -29,7 +29,7 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-head_custom: <script>document.addEventListener('DOMContentLoaded',function(){const e=document.querySelector('.search-input');e&&(e.placeholder='Search course content...')});</script>
+head_custom: <script>document.addEventListener('DOMContentLoaded',function(){const e=document.querySelector('.search-input');e&&(e.placeholder='Search course content...');const t=document.querySelector('.site-title a')||document.querySelector('a.site-title')||document.querySelector('.site-header .site-title a');if(t){const path=window.location.pathname;const basePath=path.includes('/sp26/')?'/sp26':'/';t.href=basePath+'about/'}});</script>
 footer_content:
 
 # Collections for website data

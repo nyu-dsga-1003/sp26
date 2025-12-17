@@ -1,9 +1,9 @@
 ---
-title: "Week 14: Modern: Reinforcement Learning"
+title: "Week 14: Reinforcement Learning"
 ---
 
 Apr 21
-: Modern: Reinforcement Learning
+: **Lecture**{: .label .label-purple }
 
 Apr 23
-: **Lab**{: .label .label-purple } Topic TBD
+: **Lab**{: .label .label-purple }

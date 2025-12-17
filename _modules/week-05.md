@@ -1,9 +1,9 @@
 ---
-title: "Week 5: Classics: SVM (Duality and Convex Optimization)"
+title: "Week 5: SVM (Duality and Convex Optimization)"
 ---
 
 Feb 17
-: Classics: SVM (Duality and Convex Optimization)
+: **Lecture**{: .label .label-purple }
 
 Feb 19
-: **Lab**{: .label .label-purple } Topic TBD
+: **Lab**{: .label .label-purple }
