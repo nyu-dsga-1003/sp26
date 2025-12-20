@@ -1,5 +1,5 @@
 ---
-title: "Week 1: Intro (Assumptions, Optimization, and Generalization)"
+title: "Week 1: Introduction & Basic Statistical Learning Framework"
 ---
 
 Jan 20

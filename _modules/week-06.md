@@ -1,5 +1,5 @@
 ---
-title: "Week 6: Logistic Regression (MLE and Conditional Probability Models)"
+title: "Week 6: MLE & Conditional Probability Models"
 ---
 
 Feb 24

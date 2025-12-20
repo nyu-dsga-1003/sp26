@@ -1,5 +1,5 @@
 ---
-title: "Week 4: Perceptron (Features and Kernels)"
+title: "Week 4: Linear Classification & Convex Optimization"
 ---
 
 Feb 10

@@ -1,5 +1,5 @@
 ---
-title: "Week 8: Boosting (Gradient Boosting)"
+title: "Week 8: Boosting"
 ---
 
 Mar 10

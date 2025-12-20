@@ -1,5 +1,5 @@
 ---
-title: "Week 5: SVM (Duality and Convex Optimization)"
+title: "Week 5: Features & Kernels"
 ---
 
 Feb 17

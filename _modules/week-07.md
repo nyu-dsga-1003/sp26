@@ -1,5 +1,5 @@
 ---
-title: "Week 7: Decision Trees (Bagging and Random Forests)"
+title: "Week 7: Decision Trees, Bagging, & Random Forests"
 ---
 
 Mar 3
