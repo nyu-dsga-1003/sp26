@@ -1,5 +1,5 @@
 ---
-title: "Week 11: Midterm"
+title: "Week 11: Boosting"
 ---
 
 Mar 31

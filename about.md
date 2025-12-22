@@ -23,7 +23,7 @@ The focus of this course is a graduate-level introduction to machine learning wi
 
 The course covers a wide variety of topics in machine learning and statistical modeling. While mathematical methods and theoretical aspects will be covered, the primary goal is to provide students with the tools and principles needed to solve the data science problems found in practice. This course will serve as a foundation of knowledge on which more advanced courses and further independent study can build.
 
-A key “subplot” of the course is the proliferation of data as historically driving machine learning progress and how it has obviated considerations of bias-variance “tradeoffs”. As we’ve hit upon more and more available data to train models, we could relax our inductive biases more and more. Another goal of this course is to make very clear how all these algorithms are positioned in this story in terms of their inductive bias vs. variance, and how the proliferation of large-scale data has naturally led us to our current, modern techniques.
+A key “subplot” of the course is the proliferation of data as historically driving machine learning progress and how it has obviated considerations of bias-variance “tradeoffs”. As we’ve hit upon more and more available data to train models, we could relax our inductive biases more and more. Another goal of this course is to make clear how the proliferation of large-scale data has naturally led us to our current, modern techniques.
 
 ## Prerequisites
 This course requires some basic introductory knowledge of machine learning (ML) at the level of understanding the basic ML pipeline

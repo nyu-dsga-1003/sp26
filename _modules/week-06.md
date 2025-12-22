@@ -2,7 +2,7 @@
 title: "Week 6: Features & Kernels"
 ---
 
-Feb 24 (Feb 17 lecture cancelled for President's Day)
+Feb 24
 : **Lecture**{: .label .label-purple }
 
 Feb 26

@@ -1,9 +1,9 @@
 ---
-title: "Week 8: Decision Trees, Bagging, & Random Forests"
+title: "Week 8: Midterm"
 ---
 
 Mar 10
-: **Lecture**{: .label .label-purple }
+: **Midterm**{: .label .label-purple }
 
 Mar 12
 : **Lab**{: .label .label-purple }
