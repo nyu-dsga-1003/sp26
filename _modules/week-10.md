@@ -1,9 +1,9 @@
 ---
-title: "Week 10: Midterm"
+title: "Week 10: Boosting"
 ---
 
-Mar 24
-: **Midterm (In Class)**
+Mar 24 (Mar 17 lecture cancelled for Spring Break)
+: **Lecture**{: .label .label-purple }
 
 Mar 26
-: No lab this week! 
+: **Lab**{: .label .label-purple }

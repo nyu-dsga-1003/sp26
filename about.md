@@ -28,8 +28,8 @@ A key “subplot” of the course is the proliferation of data as historically d
 ## Prerequisites
 This course requires some basic introductory knowledge of machine learning (ML) at the level of understanding the basic ML pipeline
 from a "black-box" perspective. This should be familiar if students have taken DS-GA 1001 and DS-GA 1002; if there are concerns, please
-email the instructors. An introductory "black-box machine learning" lecture will also be uploaded as a primer for students
-looking to refresh this knowledge before the course begins.
+email the instructors. An pre-recorded introductory "black-box machine learning" lecture will also be uploaded before the first week as 
+a primer for students looking to refresh this knowledge before the course begins.
 
 - **Solid mathematical background.** Equivalent to a 1-semester undergraduate course in: linear algebra, multivariable calculus, and statistics.
 - **Programming background.** Ability to program in Python is required for most assignments.
@@ -40,6 +40,7 @@ looking to refresh this knowledge before the course begins.
 ## Lecture & Labs
 
 - Lectures will be held on Tuesdays, from 2:45-4:45PM 
+  - Location: 36 E 8th St (Cantor Film Ctr) Room 200
 - Labs will be held on Thursdays, from 7:10-8PM
 
 ## Resources

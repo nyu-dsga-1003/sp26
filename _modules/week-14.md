@@ -1,5 +1,5 @@
 ---
-title: "Week 14: Reinforcement Learning"
+title: "Week 14: Generative Models"
 ---
 
 Apr 21

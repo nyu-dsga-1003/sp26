@@ -1,5 +1,5 @@
 ---
-title: "Week 12: Structured Neural Networks"
+title: "Week 12: Learnable Features → Deep Neural Networks"
 ---
 
 Apr 7

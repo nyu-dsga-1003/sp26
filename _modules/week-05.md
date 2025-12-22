@@ -1,9 +1,9 @@
 ---
-title: "Week 5: Features & Kernels"
+title: "Week 5: President's Day (Class/Lab Cancelled)"
 ---
 
 Feb 17
-: **Lecture**{: .label .label-purple }
+: No class this week! 
 
 Feb 19
-: **Lab**{: .label .label-purple }
+: No lab this week!

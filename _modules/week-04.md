@@ -1,5 +1,5 @@
 ---
-title: "Week 4: Linear Classification & Convex Optimization"
+title: "Week 4: Linear Classification, Convex Optimization, & SVM"
 ---
 
 Feb 10

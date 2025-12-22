@@ -1,5 +1,5 @@
 ---
-title: "Week 7: Decision Trees, Bagging, & Random Forests"
+title: "Week 7: MLE & Conditional Probability Models"
 ---
 
 Mar 3

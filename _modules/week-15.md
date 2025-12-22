@@ -1,5 +1,5 @@
 ---
-title: "Week 15: Language Models"
+title: "Week 15: Reinforcement Learning"
 ---
 
 Apr 28

@@ -1,5 +1,5 @@
 ---
-title: "Week 3: Regularization"
+title: "Week 3: Regularization & Loss Functions"
 ---
 
 Feb 3

@@ -1,5 +1,5 @@
 ---
-title: "Week 16: Special Topics"
+title: "Week 16: Language Models"
 ---
 
 May 5

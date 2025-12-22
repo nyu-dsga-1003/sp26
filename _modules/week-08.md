@@ -1,5 +1,5 @@
 ---
-title: "Week 8: Boosting"
+title: "Week 8: Decision Trees, Bagging, & Random Forests"
 ---
 
 Mar 10

@@ -1,9 +1,9 @@
 ---
-title: "Week 11: Learnable Features → Deep Neural Networks"
+title: "Week 11: Midterm"
 ---
 
 Mar 31
-: **Lecture**{: .label .label-purple }
+: **Midterm**{: .label .label-purple }
 
 Apr 2
 : **Lab**{: .label .label-purple }

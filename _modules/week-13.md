@@ -1,5 +1,5 @@
 ---
-title: "Week 13: Generative Models"
+title: "Week 13: Structured Neural Networks"
 ---
 
 Apr 14
