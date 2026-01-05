@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
+title: Course Content
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Course Content
 
 ## Part 1: "Classical" ML (Weeks 1–11)
 
