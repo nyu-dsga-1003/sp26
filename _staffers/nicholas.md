@@ -7,3 +7,5 @@ photo: nicholas.png
 ---
 
 Hi! I'm a current faculty fellow at NYU, working on LLMs, reasoning, and interaction. In my spare time, I enjoy playing chess, eating bagels, and entertaining my cat Coco.
+
+**Office Hours:**
