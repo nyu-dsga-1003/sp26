@@ -68,7 +68,7 @@ these subjects are:
 - **Lecture Time:** Tuesdays 2:45-4:45PM (in-person)
   - **Lecture Location:** 36 E 8th St (Cantor Film Ctr) Room 200
 - **Lab Time:** Thursdays 7:10-8PM (in-person)
-  - **Lab Location:** 
+  - **Lab Location:** 238 Thompson St (GCASL) Room C95
 - **Instructor Office Hours:** 
   - Sam:
   - Nick:
@@ -100,4 +100,21 @@ Each week will feature a short homework assignment, intended to reinforce concep
 - Final Project: 35%
 - Lab Attendance: 10%
 
-More details about the final project will be provided as the semester progresses!
+**Midterm Policy.** The in-class midterm during the usual lecture slot on **Tuesday, March 10, 2026 2:45pm - 4:45pm ET**. Please
+make sure you are available in-person on this day!
+
+Due to resource constraints, we will not be able to allow make-up midterms for those who
+cannot attend lecture on that day, so missing the midterm will result in a zero for the
+midterm. If you must miss the midterm due to an unexpected emergency or extenuating
+circumstance (and do not want to continue the course with a grade of zero on the midterm),
+you should bring this up with the instructors as soon as possible so we can possibly arrange
+assigning you a grade of “Incomplete.”
+
+**Lab Attendance.** Although lecture attendance is optional (though strongly recommended), lab attendance is an easy part 
+of your final grade. For each lab you attend, you will get 1 point; the lab attendance portion of your grade is then simply the
+number of labs you attended divided by 10. There are more than 10 labs in the course, so you can miss some of them and
+still get full credit. Attending more than 10 labs will give you a slight boost to your grade, as the 10% of your grade
+dedicated to lab attendance will weight *X/10* labs, where *X > 10*. We will be tallying lab attendance in-person through a
+QR code -- it is your responsibility to make sure that you sign in at each lab session you attend.
+
+**Final Project.** More details about the final project will be provided as the semester progresses!

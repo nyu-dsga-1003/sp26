@@ -24,17 +24,16 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.1
 color_scheme: light
-search_enabled: false
+search_enabled: true
 heading_anchors: true
-aux_links:
-  Brightspace:
-    - https://www.gradescope.com/
-  Gradescope:
-    - https://www.gradescope.com/
-  Ed:
-    - https://edstem.org/
 permalink: pretty
-head_custom: <script>document.addEventListener('DOMContentLoaded',function(){const e=document.querySelector('.search-input');e&&(e.placeholder='Search course content...');const t=document.querySelector('.site-title a')||document.querySelector('a.site-title')||document.querySelector('.site-header .site-title a');if(t){const path=window.location.pathname;const basePath=path.includes('/sp26/')?'/sp26':'/';t.href=basePath+'about/'}});</script>
+aux_links:
+  Gradescope:
+    - "https://www.gradescope.com/courses/1215266"
+  Ed:
+    - "https://edstem.org/us/courses/91561/discussion"
+permalink: pretty
+#head_custom: <script>document.addEventListener('DOMContentLoaded',function(){const e=document.querySelector('.search-input');e&&(e.placeholder='Search course content...');const t=document.querySelector('.site-title a')||document.querySelector('a.site-title')||document.querySelector('.site-header .site-title a');if(t){const path=window.location.pathname;const basePath=path.includes('/sp26/')?'/sp26':'/';t.href=basePath+'about/'}});</script>
 footer_content:
 
 # Collections for website data
