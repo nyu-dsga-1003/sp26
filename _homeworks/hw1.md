@@ -7,4 +7,4 @@ Material
   : [ps1.zip](), [ps1.pdf]()
 
 **Due**
-: January 29th, 11:59 PM ET
+: Tuesday, February 3rd, 11:59 PM ET

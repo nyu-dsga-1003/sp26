@@ -7,4 +7,4 @@ Material
   : [ps0-submission.zip]({{ site.baseurl }}/assets/psets/ps0-submission.zip), [ps0.pdf]({{ site.baseurl }}/assets/psets/ps0.pdf)
 
 **Due**
-: January 29th, 11:59 PM ET
+: Friday, January 23rd, 11:59 PM ET

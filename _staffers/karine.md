@@ -6,7 +6,7 @@ photo: tbd.png
 ---
 **Section Leader & Grader**
 
-**Office Hours:** Thursdays 3:00pm - 4:00pm ET.
+**Office Hours:** Thursdays 3:00pm - 4:00pm ET in CDS Office 242.
 
 I am a PhD student in Computer Science. I enjoy yummy food and sports. :)
 
