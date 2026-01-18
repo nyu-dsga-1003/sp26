@@ -31,6 +31,8 @@ If you're a student, all content, logistics, and materials will be available on 
 
 **Acknowledgment:** Much of the material of this course (especially Weeks 1-11) are adapted from DS-GA 1003 developed originally by David S. Rosenberg and later adapted by He He, Tal Linzen, Mengye Ren, and others. 
 
+**Feedback?** This is the first time Sam and Nick are teaching this particular course. To this end, if there’s anything I can do to help you learn better, do not hesitate to contact us through Ed or email or use our [Anonymous Feedback Form](https://forms.gle/dZ9SPy4Qbw36LSTz9).
+
 ## Prerequisites
 This course requires some basic introductory knowledge of machine learning (ML) at the level of understanding the basic ML pipeline
 from a "black-box" perspective (i.e., train-test split, cross-validation, evaluating a model, etc.). This should be familiar if students have taken DS-GA 1001 and DS-GA 1002; if there are concerns, please
@@ -72,8 +74,8 @@ these subjects are:
 - **Lab Time:** Thursdays 7:10-8PM (in-person)
   - **Lab Location:** 238 Thompson St (GCASL) Room C95
 - **Instructor Office Hours:** 
-  - Sam: Tuesdays 5:00pm - 6:00pm (after class in CDS Office 242); Wednesdays 1:00pm - 2:00pm (CDS Office 242)
-  - Nick:
+  - Sam: Tuesdays 5:00pm - 6:00pm (after class in CDS 242); Wednesdays 1:00pm - 2:00pm (CDS 242)
+  - Nick: Wednesdays 3:00pm - 4:00pm (CDS 617)
   - For section leader office hours, check the [Staff]({{ site.baseurl }}{% link staff.md %}) page of the site
   - For changes in office hours, please keep an eye out on [Ed](https://edstem.org/) and the [Calendar]({{ site.baseurl }}{% link calendar.md %}) page of the site.
 - **Announcements and Discussion:** All course announcements and discussion will be handled on [Ed Discussion](https://edstem.org/). Instead of emailing the instructor and instructional staff, please post your questions on [Ed](https://edstem.org/). We will also be using [Ed](https://edstem.org/) for all class-related announcements, so please check your email and [Ed Discussion](https://edstem.org/) frequently to keep up to date with any class logistics/changes/etc.
