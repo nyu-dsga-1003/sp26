@@ -32,6 +32,8 @@ aux_links:
     - "https://www.gradescope.com/courses/1215266"
   Ed:
     - "https://edstem.org/us/courses/91561/discussion"
+  Anonymous Feedback:
+    - "https://forms.gle/dZ9SPy4Qbw36LSTz9"
 permalink: pretty
 #head_custom: <script>document.addEventListener('DOMContentLoaded',function(){const e=document.querySelector('.search-input');e&&(e.placeholder='Search course content...');const t=document.querySelector('.site-title a')||document.querySelector('a.site-title')||document.querySelector('.site-header .site-title a');if(t){const path=window.location.pathname;const basePath=path.includes('/sp26/')?'/sp26':'/';t.href=basePath+'about/'}});</script>
 footer_content:

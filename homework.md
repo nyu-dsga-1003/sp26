@@ -4,7 +4,7 @@ title: Homework
 description: Homework instructions.
 ---
 # Homeworks
-In this section, we will post the biweekly homeworks for the semester. Check back here for the latest problem set!
+In this section, we will post the biweekly homeworks for the semester. Check back here for the latest problem set! 
 
 {% assign sorted_hw = site.homeworks | sort: 'path' %}
 {% for hw in sorted_hw %}
@@ -14,9 +14,13 @@ In this section, we will post the biweekly homeworks for the semester. Check bac
 # Homework Submission Instructions
 Submission for all the problem sets is handled through [Gradescope](https://www.gradescope.com/courses/1215266).  If you have not used Gradescope before, please watch this short video: ["For students: submitting a PDF on the Gradescope website."](https://www.gradescope.com/get_started). A typical problem set will have several multi-part theoretical problems and a single coding problem to exercise the students' ability to implement certain algorithms from scratch. 
 
+**Collaboration Policy:** Learning is best done in collaboration with peers. To this end, you will be allowed to collaborate with other students on the problem sets. All collaborators must write the names and UNIs of their group at the top of each problem set. All collaborators must also type up everything in their own words (and submit separately). You are free to discuss, whiteboard, and brainstorm with your collaborators. However, when it comes to sitting down and solving the actual problem, you must do it yourself, away from your collaborators.
+
+**LLM Policy:** We *strongly* suggest resisting the temptation of using an LLM to help you solve your assignments at all. You will hopefully find that fluency on the homeworks will directly translate to exam performance, as the exam questions will track problem set questions closely. Of course, there’s no way for the instructor to really know whether you used an LLM. Due to this, please at least refrain from using LLMs to seek a verbatim answer on problem sets for your own good. If you must, you may query LLMs for prerequisite material you may have forgotten or to “explain” concepts in a simpler way and cite the LLM you used on your problem.
+
 **Drop Policy:** The lowest problem set will be dropped for every student.
 
-**Late Policy:** Students will have a total of 6 late days for all assignments. After the late days are used, late homeworks can be accepted for 48 hours after the time it is due, with a 20% penalty. The maximum late days acceptable for each assignment is **two late days**; Gradescope will not accept assignments 48 hours after the due date.
+**Late Policy:** Students will have a total of 6 late days for all assignments. After the late days are used, late homeworks can be accepted for 48 hours after the time it is due, with a 20% penalty per day. The maximum late days acceptable for each assignment is **two late days**; Gradescope will not accept assignments 48 hours after the due date.
 
 **Submission Format:** All submission will be through Gradescope. At the beginning of the semester, you will be added to the Gradescope roster. To submit an assignment, you will need to:
 

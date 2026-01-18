@@ -29,6 +29,8 @@ A key “subplot” of the course is the proliferation of data as historically d
 
 If you're a student, all content, logistics, and materials will be available on this page for ease of access (check here first instead of Brightspace). All course announcements will be on [Ed Discussion](https://edstem.org/). Please see [Course Content]({{ site.baseurl }}{% link content.md %}) for the lecture material and problem sets.
 
+**Acknowledgment:** Much of the material of this course (especially Weeks 1-11) are adapted from DS-GA 1003 developed originally by David S. Rosenberg and later adapted by He He, Tal Linzen, Mengye Ren, and others. 
+
 ## Prerequisites
 This course requires some basic introductory knowledge of machine learning (ML) at the level of understanding the basic ML pipeline
 from a "black-box" perspective (i.e., train-test split, cross-validation, evaluating a model, etc.). This should be familiar if students have taken DS-GA 1001 and DS-GA 1002; if there are concerns, please
@@ -70,7 +72,7 @@ these subjects are:
 - **Lab Time:** Thursdays 7:10-8PM (in-person)
   - **Lab Location:** 238 Thompson St (GCASL) Room C95
 - **Instructor Office Hours:** 
-  - Sam:
+  - Sam: Tuesdays 5:00pm - 6:00pm (after class in CDS Office 242); Wednesdays 1:00pm - 2:00pm (CDS Office 242)
   - Nick:
   - For section leader office hours, check the [Staff]({{ site.baseurl }}{% link staff.md %}) page of the site
   - For changes in office hours, please keep an eye out on [Ed](https://edstem.org/) and the [Calendar]({{ site.baseurl }}{% link calendar.md %}) page of the site.
@@ -89,16 +91,16 @@ The course does not have any official or required textbooks. All slides will be 
 
 We will sometimes post recommended optional reading from these textbooks or a free online source in the [Course Content]({{ site.baseurl }}{% link content.md %}) page of the site. 
 
-**Acknowledgment:** Much of the material of this course (especially Weeks 1-11) are adapted from DS-GA 1003 developed originally by David S. Rosenberg and later adapted by He He, Tal Linzen, Mengye Ren, and others. 
-
 ## Assessment
 
-Each week will feature a short homework assignment, intended to reinforce concepts from lecture. For details about the homework assignments, please see the [Homework]({{ site.baseurl }}{% link homework.md %}) page of this site. We will also have a midterm exam, as well as a final project. The grading breakdown is as follows:
+There will be a total of 6-7 biweekly homework assignments. We will also have a midterm exam, as well as a final project. The grading breakdown is as follows:
 
 - Homeworks: 20%
 - Midterm Exam: 35%
 - Final Project: 35%
 - Lab Attendance: 10%
+
+**Homeworks.** There will be a total of 6-7 biweekly homework assignments with a mix of theoretical problems and coding problems. For details about the homework assignments, please see the [Homework]({{ site.baseurl }}{% link homework.md %}) page of this site.
 
 **Midterm Policy.** The in-class midterm during the usual lecture slot on **Tuesday, March 10, 2026 2:45pm - 4:45pm ET**. Please
 make sure you are available in-person on this day!
