@@ -35,9 +35,7 @@ If you're a student, all content, logistics, and materials will be available on 
 
 ## Prerequisites
 This course requires some basic introductory knowledge of machine learning (ML) at the level of understanding the basic ML pipeline
-from a "black-box" perspective (i.e., train-test split, cross-validation, evaluating a model, etc.). This should be familiar if students have taken DS-GA 1001 and DS-GA 1002; if there are concerns, please
-email the instructors. An pre-recorded introductory "black-box machine learning" lecture will also be uploaded during the first week as 
-a primer for students looking to refresh this knowledge as the course begins.
+from a "black-box" perspective (i.e., train-test split, cross-validation, evaluating a model, etc.). This should be familiar if students have taken DS-GA 1001 and DS-GA 1002; if there are concerns, please email the instructors.
 
 - **Solid mathematical background.** Equivalent to a 1-semester undergraduate course in: linear algebra, multivariable calculus, and statistics.
 - **Programming background.** Ability to program in Python is required for most assignments.
@@ -122,3 +120,11 @@ dedicated to lab attendance will weight *X/10* labs, where *X > 10*. We will be 
 QR code -- it is your responsibility to make sure that you sign in at each lab session you attend.
 
 **Final Project.** More details about the final project will be provided as the semester progresses!
+
+## Additional Information
+
+**Community Guidelines.** Students, staff, and instructors are all expected to abide by the [CDS community member statement](https://docs.google.com/document/d/1hi_lxsXJC50kUh8BwCTGifFMl9t22U3kqh5vgOnZ5nI/edit?tab=t.0).
+
+**Moses Center for Disabilities.**  If you are student with a disability who is requesting accommodations, please contact 
+New York University’s Moses Center for Students with Disabilities (CSD) at 212-998-4980 or mosescsd@nyu.edu. You must be
+registered with CSD to receive accommodations. Information about the Moses Center can be found [here](https://www.nyu.edu/life/community-flourishing/centers-and-communities/accessibility.html).
