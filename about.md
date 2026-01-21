@@ -117,7 +117,7 @@ still get full credit. Attending more than 10 labs will give you a slight boost 
 dedicated to lab attendance will weight *X/10* labs, where *X > 10*. We will be tallying lab attendance in-person through a
 QR code -- it is your responsibility to make sure that you sign in at each lab session you attend.
 
-**Final Project.** More details about the final project will be provided as the semester progresses!
+**Final Project.** Details about the final project can be found on the [Project]({{ site.baseurl }}{% link project.md %}) page.
 
 ## Additional Information
 

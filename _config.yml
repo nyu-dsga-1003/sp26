@@ -28,6 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Zoom Recordings (Brightspace):
+    - "https://brightspace.nyu.edu/d2l/home/555813"
   Gradescope:
     - "https://www.gradescope.com/courses/1215266"
   Ed:
