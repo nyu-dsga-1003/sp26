@@ -16,8 +16,6 @@ description: >-
 {:toc}
 
 ---
-**NOTE:** This site is still under construction and will be undergoing changes until the first week of class, on January 20th!
-Please stay tuned for updates and monitor your email for communication about the course.
 
 ## What's this course?
 

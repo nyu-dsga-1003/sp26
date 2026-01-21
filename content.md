@@ -20,8 +20,20 @@ the proliferation of data and computational power. Nick will be the lecturer in 
   - *ESL* refers to [*The Elements of Statistical Learning*](https://hastie.su.domains/ElemStatLearn/) by Hastie, Tibshirani, and Friedman.
   - *UML* refers to [*Understanding Machine Learning: From Theory to Algorithms*](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz and Ben-David.
   - *ISL* refers to [*An Introduction to Statistical Learning*](https://www.statlearning.com/) by James, Witten, Hastie, and Tibshirani.
+  - *PPA* refers to [*Patterns, Predictions, and Actions*](https://mlstory.org/pdf/patterns.pdf) by Hardt and Recht.
 
 This is a tentative schedule and is subject to change.
+
+**Lecture Recordings.** Recordings of the lectures are available to watch on [Brightspace](https://brightspace.nyu.edu/d2l/home/555813). 
+Just navigate to the [Brightspace](https://brightspace.nyu.edu/d2l/home/555813) page and then click *Zoom.*
+
+**Math Review.** As stated in the prerequisites, students are expected to have a solid understanding of linear algebra,
+probability and statistics, and multivariable calculus for this course. In addition to the resources listed on the [homepage]({{ site.baseurl }}{% link about.md %})
+of the site, here are several shorter notes to get you started if you need to review material:
+
+- [_Mathematics for Machine Learning_](https://mml-book.com/) (includes all the topics so you can pick and choose)
+- [Probability Review](https://cs229.stanford.edu/section/cs229-prob.pdf)
+- [Linear Algebra Review](https://web.stanford.edu/class/cs246/handouts/CS246_LinAlg_review.pdf)
 
 ## Part 1: "Classical" ML (Weeks 1–11)
 
