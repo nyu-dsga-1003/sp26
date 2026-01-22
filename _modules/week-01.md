@@ -8,4 +8,4 @@ Jan 20
 : ([marked up lecture slides]({{ site.baseurl }}/assets/lecs/lec1_setup_pres.pdf))
 
 Jan 22
-: **Lab**{: .label .label-purple }
+: **Lab**{: .label .label-purple } [Lab 1: Statistical Learning Review & Intro to Gradient Descent]({{ site.baseurl }}/assets/labs/lab1.pdf)
