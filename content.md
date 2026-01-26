@@ -35,6 +35,11 @@ of the site, here are several shorter notes to get you started if you need to re
 - [Probability Review](https://cs229.stanford.edu/section/cs229-prob.pdf)
 - [Linear Algebra Review](https://web.stanford.edu/class/cs246/handouts/CS246_LinAlg_review.pdf)
 
+Sam also designed a course the past two summers at Columbia meant to give students a deeper understanding of these 
+prerequisites (given that they have already taken them and would like to progress to graduate-level machine learning).
+The entire course could be found at this page: [Math for ML](https://samuel-deng.github.io/math4ml_su25/), and lecture
+videos can be found in "Video Recordings" on this page.
+
 **Math Review Videos.** We will also occasionally post some *Math Review Videos* after that week's lab depending on lab 
 feedback on what students found confusing about the material in that week. Familiarity with all the prerequisites in this
 class can definitely feel daunting at times, so the purpose of these review videos are to re-introduce some prereq concepts

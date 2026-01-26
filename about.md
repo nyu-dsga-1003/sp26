@@ -43,8 +43,14 @@ from a "black-box" perspective (i.e., train-test split, cross-validation, evalua
 
 Machine learning is a confluence of different subjects, but the three most important foundational mathematical subjects for understanding
 machine learning are: linear algebra, multivariable calculus, and probability. A free recommended resource for refreshing these subjects
-is [_Mathematics for Machine Learning_](https://mml-book.com/) by Deisenroth, Faisal, and Ong. Several other resources for brushing up on
-these subjects are:
+is [_Mathematics for Machine Learning_](https://mml-book.com/) by Deisenroth, Faisal, and Ong. 
+
+Sam also designed a course the past two summers at Columbia meant to give students a deeper understanding of these 
+prerequisites (given that they have already taken them and would like to progress to graduate-level machine learning).
+The entire course could be found at this page: [Math for ML](https://samuel-deng.github.io/math4ml_su25/), and lecture
+videos can be found in "Video Recordings" on this page.
+
+Several other resources for brushing up on these subjects are:
 
 ### Linear Algebra
 - *Linear Algebra and Applications* by Gilbert Strang
