@@ -11,4 +11,4 @@ Jan 22
 : **Lab**{: .label .label-purple } [Lab 1: Statistical Learning Review & Intro to Gradient Descent]({{ site.baseurl }}/assets/labs/lab1.pdf)
 
 Math Review
-: (1) [Math Review: Joint, Conditional, and Marginal Distributions](https://youtu.be/YxqjzLue_XA?si=EMj9sDpY1Fwu2K_s); (2) [Math Review: Conditional Expectation](https://youtu.be/uXhoMRDocJ8?si=Uj1EOCpojk6xFU-z); (3) [Math Review: Bayes Hypothesis](https://youtu.be/cUcbtSsx8uU?si=KaAfApci1sYEWokK)
+: (1) [Math Review: Joint, Conditional, and Marginal Distributions](https://youtu.be/YxqjzLue_XA?si=EMj9sDpY1Fwu2K_s) ([notes]({{ site.baseurl }}/assets/misc/joint.pdf)); (2) [Math Review: Conditional Expectation](https://youtu.be/uXhoMRDocJ8?si=Uj1EOCpojk6xFU-z)  ([notes]({{ site.baseurl }}/assets/misc/condexp.pdf)); (3) [Math Review: Bayes Hypothesis](https://youtu.be/cUcbtSsx8uU?si=KaAfApci1sYEWokK)  ([notes]({{ site.baseurl }}/assets/misc/bayes.pdf))
