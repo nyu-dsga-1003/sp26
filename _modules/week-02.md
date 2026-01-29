@@ -8,4 +8,4 @@ Jan 27
 : ([marked up lecture slides]({{ site.baseurl }}/assets/lecs/lec2_optimization_pres.pdf))
 
 Jan 29
-: **Lab**{: .label .label-purple }
+: **Lab**{: .label .label-purple } [Lab 2: Convexity, Gradient Descent, & Logistic Regression]({{ site.baseurl }}/assets/labs/lab2.pdf)
