@@ -10,4 +10,4 @@ Material
 : Tuesday, February 3rd, 2:30 PM ET
 
 **Due**
-: Tuesday, February 17th, 11:59 PM ET
+: Tuesday, February 24th, 11:59 PM ET (*extended from original Feb. 17th due date*).
