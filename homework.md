@@ -20,7 +20,7 @@ Submission for all the problem sets is handled through [Gradescope](https://www.
 
 **Drop Policy:** The lowest problem set will be dropped for every student.
 
-**Late Policy:** Students will have a total of 6 late days for all assignments. After the late days are used, late homeworks can be accepted for 48 hours after the time it is due, with a 20% penalty per day. The maximum late days acceptable for each assignment is **two late days**; Gradescope will not accept assignments 48 hours after the due date.
+**Late Policy:** Students will have a total of 6 late days for all assignments. After the late days are used, late homeworks can be accepted for 48 hours after the time it is due, with a 20% penalty per day. The maximum late days acceptable for each assignment is **two late days**; Gradescope will not accept assignments 48 hours after the due date. Late days are not fractional; for instance, when using late days, turning in an assignment at any time in the first 24 hours after the deadline counts as using one full late day.
 
 **Submission Format:** All submission will be through Gradescope. At the beginning of the semester, you will be added to the Gradescope roster. To submit an assignment, you will need to:
 
