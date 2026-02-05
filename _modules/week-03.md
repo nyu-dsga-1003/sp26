@@ -12,4 +12,5 @@ Feb 5
 : **Lab**{: .label .label-purple }
 
 Math Review
-: [Math Review: A Bit of Matrix Calculus](https://youtu.be/ma58bISb4lw)
+: [Math Review: A Bit of Matrix Calculus](https://youtu.be/ma58bISb4lw); see ["Lecture Recordings"](https://www.youtube.com/playlist?list=PLNm9W-YkOtpNKxyOQpst8JYp_qVg4zh3P) on [Math for ML](https://samuel-deng.github.io/math4ml_su25/content/) for Linear Algebra I
+and Linear Algebra II for more refreshers on the linear algebra you need for this course.
