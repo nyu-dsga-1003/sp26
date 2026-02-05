@@ -10,3 +10,6 @@ Feb 3
 
 Feb 5
 : **Lab**{: .label .label-purple }
+
+Math Review
+: [Math Review: A Bit of Matrix Calculus](https://youtu.be/ma58bISb4lw)
