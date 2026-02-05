@@ -9,7 +9,7 @@ Feb 3
     *PPA* pg. 122-125 (if you're *really* interested in "modern treatment" of regularization)
 
 Feb 5
-: **Lab**{: .label .label-purple }
+: **Lab**{: .label .label-purple } Loss Functions: Regularization & Loss Functions: Classification from [Lecture 3]({{ site.baseurl }}/assets/lecs/lec3_regularization.pdf)
 
 Math Review
 : [Math Review: A Bit of Matrix Calculus](https://youtu.be/ma58bISb4lw); see ["Lecture Recordings"](https://www.youtube.com/playlist?list=PLNm9W-YkOtpNKxyOQpst8JYp_qVg4zh3P) on [Math for ML](https://samuel-deng.github.io/math4ml_su25/content/) for Linear Algebra I
