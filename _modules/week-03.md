@@ -7,6 +7,7 @@ Feb 3
     : *ESL* Ch. 3 or *ISL* Ch. 6.1-6.2 for a lighter intro; 
     *PPA* pg. 92-98, *PPA* pg. 100-106 (for a more "modern" treatment of regularization),
     *PPA* pg. 122-125 (if you're *really* interested in "modern treatment" of regularization)
+: ([marked up lecture slides]({{ site.baseurl }}/assets/lecs/lec3_regularization_pres.pdf))
 
 Feb 5
 : **Lab**{: .label .label-purple } Loss Functions: Regularization & Loss Functions: Classification from [Lecture 3]({{ site.baseurl }}/assets/lecs/lec3_regularization.pdf)
