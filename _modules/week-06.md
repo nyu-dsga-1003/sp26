@@ -1,5 +1,5 @@
 ---
-title: "Week 6: Features & Kernels"
+title: "Week 6: Features & Kernels (Remote Lecture on Zoom)"
 ---
 
 Feb 24
