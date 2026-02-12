@@ -7,4 +7,7 @@ Feb 10
     : [Convex Optimization notes from previous DS-GA 1003](https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/convex-optimization.pdf), [SVM duality notes from previous DS-GA 1003](https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/SVM-main-points.pdf), [Wikipedia article on SVM is pretty good](https://en.wikipedia.org/wiki/Support_vector_machine)
 
 Feb 12
-: **Lab**{: .label .label-purple }
+: **Lab**{: .label .label-purple } [Lab 4: Geometric Derivation of SVM]({{ site.baseurl }}/assets/labs/lab4.pdf)
+
+Math Review 
+: [SVM Duality/Comp. Slackness Derivation](https://youtu.be/rlLoarw_P7s)
