@@ -11,7 +11,7 @@ This sheet will be continually updated, so please check back here for problems f
 - Lecture 3: Regularization and Loss Functions
 - Lecture 4: Convex Optimization and SVM
 
-Solutions to these problems will be posted here: [Midterm Solutions](assets/midterm/midterm_prac_sols.pdf) (*currently pending*).
+Solutions to these problems will be posted here: [Midterm Solutions](assets/midterm/midterm_prac_sols.pdf).
 
 **Basic Information.** The midterm for this class will take place on **March 10, 2026
 2:45pm - 4:45pm** during the usual class time, in the usual place in lieu of the lecture.
