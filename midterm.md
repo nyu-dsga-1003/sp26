@@ -8,6 +8,8 @@ study, and a set of practice problems I will be updating is all included in this
 This sheet will be continually updated, so please check back here for problems for later lectures! Currently, the problems are up to:
 - Lecture 1: Statistical Learning Framework
 - Lecture 2: Optimization and Gradient Descent
+- Lecture 3: Regularization and Loss Functions
+- Lecture 4: Convex Optimization and SVM
 
 Solutions to these problems will be posted here: [Midterm Solutions](assets/midterm/midterm_prac_sols.pdf) (*currently pending*).
 
