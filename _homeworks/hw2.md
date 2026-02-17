@@ -12,5 +12,9 @@ Material
 : Tuesday, February 24th, 11:59 PM ET (*extended from original Feb. 17th due date*).
 
 **Update (02/07):** Typo on Problem 3(g): previously, read eta = 0.5, but should be eta = 0.05, the default value in the skeleton code.
+
 **Update (02/08):** Gradient checker link was broken; updated the problem set to contain the updated link.
+
 **Update (02/09):** Simplified Problem 1(c) instructions about the general descent lemma.
+
+**Update (02/17):** Previously missing L in the definition of L-smooth, put the L back.
