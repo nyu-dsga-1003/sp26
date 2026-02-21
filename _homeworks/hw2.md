@@ -18,3 +18,5 @@ Material
 **Update (02/09):** Simplified Problem 1(c) instructions about the general descent lemma.
 
 **Update (02/17):** Previously missing L in the definition of L-smooth, put the L back.
+
+**Update (02/21):** Fixed the spec in `regularized_grad_descent` in the skeleton code to output the regularized objective values (instead of unregularized).
