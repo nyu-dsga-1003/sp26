@@ -8,3 +8,4 @@ Feb 24
 
 Feb 26
 : **Lab**{: .label .label-purple }
+    : [Lab 5: Kernel and PSD Review]({{ site.baseurl }}/assets/labs/lab5.pdf)
