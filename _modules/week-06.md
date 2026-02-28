@@ -7,5 +7,7 @@ Feb 24
     : *PPA* Ch. 4
 
 Feb 26
-: **Lab**{: .label .label-purple }
-    : [Lab 5: Kernel and PSD Review]({{ site.baseurl }}/assets/labs/lab5.pdf)
+: **Lab**{: .label .label-purple } [Lab 5: Kernel and PSD Review]({{ site.baseurl }}/assets/labs/lab5.pdf)
+
+Feb 28
+: Midterm Review Session ([PDF]({{ site.baseurl }}/assets/misc/review1.pdf)); video on Brightspace
