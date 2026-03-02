@@ -11,6 +11,9 @@ This sheet will be continually updated, so please check back here for problems f
 - Lecture 3: Regularization and Loss Functions
 - Lecture 4: Convex Optimization and SVM
 - Lecture 5: Features and Kernels
+- Lecture 6: Probabilistic Models and MLE
+
+The sheet has now been fully updated!
 
 Solutions to these problems will be posted here: [Midterm Solutions](assets/midterm/midterm_prac_sols.pdf).
 
