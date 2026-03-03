@@ -7,4 +7,4 @@ Mar 3
     : [Carlos Fernandez Granda on Discrete MLE](https://www.youtube.com/watch?v=P3u3chFBd1g&list=PLBEf5mJtE6KuZ5NBQMuWIMsiOOrV9ibzm&index=17), [Carlos Fernandez Granda on Continuous MLE](https://www.youtube.com/watch?v=kRZR9Amyc64&list=PLBEf5mJtE6KuZ5NBQMuWIMsiOOrV9ibzm&index=27), *PPA* Ch. 2
 
 Mar 5
-: **Lab**{: .label .label-purple } Midterm Review: come with questions from [Midterm Review Sheet]({{ site.baseurl }}{% link midterm.md %})!
+: **Lab**{: .label .label-purple } Lab 6: Midterm Review. Come with questions from [Midterm Review Sheet]({{ site.baseurl }}{% link midterm.md %})!
