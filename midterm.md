@@ -36,4 +36,4 @@ Conditional Probability Models).
 - Each section except the MLE & Conditional Probability Models section will have exactly two parts: three True/False questions and one multi-part short answer problem, worth a total of 18 points.
 - **True/False.** Each True/False problem will be worth 3 points each. You will need to answer whether a statement is true or false with a one-sentence justification. 1 point is awarded for the correct True/False without justification, but the full 3 points will only be awarded for a correct justification.
 - **Short answer.** Each short answer problem is worth 9 total points. The short answer problems will involve working through a short toy machine learning problem, doing some short derivations, or answering conceptual questions. The samples in the above document should be a good representation of their difficulty level.
-- The MLE & Conditional Probability Models section of the exam will only have a single short answer problem worth 9 points.
+- The MLE & Conditional Probability Models section of the exam will only have three True/False problems worth a total of 9 points.
