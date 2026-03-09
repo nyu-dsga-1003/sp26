@@ -32,9 +32,11 @@ allowed the following materials:
 - Watches.
 - Calculators.
 - Earbuds.
-We will also not permit any sort of mechanical watch for the midterm -- the time will be projected on the screen at all times
-so there will be no need for a watch. Our policy for this will be very strict -- if you are spotted *at any time* in the exam room
-between 2:45pm - 4:45pm ET on the day of the midterm with any of these prohibited items, you will be immediately escorted out of the room 
+We will also not permit any sort of watch for the midterm (electronic, mechanical, or otherwise) -- the time will be projected on the screen at all times
+so there will be no need for a watch. 
+
+Our policy for this will be very strict -- if you are spotted *at any time* in the exam room
+on the day of the midterm with any of these prohibited items, you will be immediately escorted out of the room 
 and your midterm will be given a zero, with appropriate academic integrity violations pursued.
 
 The best way to ensure that this does not happen for you is to silent and put your phone in your backpack *before* you enter
