@@ -24,10 +24,26 @@ allowed the following materials:
 - A pen or pencil. I will provide sheets of scrap paper during the midterm.
 - One-double sided 8.5 × 11 sheet of paper containing whatever materials you like. This can be handwritten or typed and there is no restriction on what this sheet contains.
 
-Any collaboration between students or with outside sources via phones, laptops, “smart
-glasses,” smoke signals, pagers, carrier pigeons, etc. is strictly prohibited.
+**Midterm Integrity Policy.** Please read the following carefully -- we will be taking these rules *very* seriously. Students
+ will not be allowed *any* electronic devices for the midterm, as the only required materials are pencil, paper, and your cheat sheet. 
+ The specification for electronic devices includes, but is not limited to:
+- Cell phones.
+- "Smart"/AI glasses or peripherals.
+- Watches.
+- Calculators.
+- Earbuds.
+We will also not permit any sort of mechanical watch for the midterm -- the time will be projected on the screen at all times
+so there will be no need for a watch. Our policy for this will be very strict -- if you are spotted *at any time* in the exam room
+between 2:45pm - 4:45pm ET on the day of the midterm with any of these prohibited items, you will be immediately escorted out of the room 
+and your midterm will be given a zero, with appropriate academic integrity violations pursued.
 
-As we have stated from the first lecture, the course policy is that students who cannot make the midterm will need to take a grade of "Incomplete" for the course. If you believe
+The best way to ensure that this does not happen for you is to silent and put your phone in your backpack *before* you enter
+the exam room, and to leave your watch (if you wear one) at home. Any student seen with a phone (or any of the above prohibited items) 
+will face the above penalty immediately.
+
+Everyone will also be required to space themselves one seat away on either side from the next student when taking seats during the day of the exam.
+
+**Incomplete Policy.** As we have stated from the first lecture, the course policy is that students who cannot make the midterm will need to take a grade of "Incomplete" for the course. If you believe
 that you will not be able to make it for whatever reason, *please reach out to the instructors as soon as you can* so we can discuss what this means! 
 
 **Midterm Format.** You can be assured that the format of the midterm will be as follows:
@@ -37,3 +53,5 @@ Conditional Probability Models).
 - **True/False.** Each True/False problem will be worth 3 points each. You will need to answer whether a statement is true or false with a one-sentence justification. 1 point is awarded for the correct True/False without justification, but the full 3 points will only be awarded for a correct justification.
 - **Short answer.** Each short answer problem is worth 9 total points. The short answer problems will involve working through a short toy machine learning problem, doing some short derivations, or answering conceptual questions. The samples in the above document should be a good representation of their difficulty level.
 - The MLE & Conditional Probability Models section of the exam will only have three True/False problems worth a total of 9 points.
+
+**Midterm Grading.** The midterm will be graded as follows. Let *M* be the median of the midterm scores. If *M* is greater than or equal to 72, then everyone gets their score as graded. If *M* is less than 72, then *72 - M* points will be added to everyone's score, and all scores that exceed 100 after this addition will be capped at 100.
