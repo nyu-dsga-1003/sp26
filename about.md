@@ -97,14 +97,32 @@ We will sometimes post recommended optional reading from these textbooks or a fr
 
 ## Assessment
 
-There will be a total of 6-7 biweekly homework assignments. We will also have a midterm exam, as well as a final project. The grading breakdown is as follows:
+There will be a total of 5-6 homework assignments. We will also have a midterm exam, as well as a final project. The grading breakdown is as follows:
 
 - Homeworks: 20%
 - Midterm Exam: 35%
 - Final Project: 35%
 - Lab Attendance: 10%
 
-**Homeworks.** There will be a total of 6-7 biweekly homework assignments with a mix of theoretical problems and coding problems. For details about the homework assignments, please see the [Homework]({{ site.baseurl }}{% link homework.md %}) page of this site.
+Obtaining *p*, the percentage from the above breakdown, you can compute your final letter grade in the course
+using the following table. The following are *hard cutoffs*.
+
+| Letter Grade | Percent |
+|----------|----------|
+| A  | *p* >= 92.0 |
+| A- | 92.0 > *p* >= 90.0 |
+| B+ | 90.0 > *p* >= 87.0 |
+| B  | 87.0 > *p* >= 82.0 |
+| B- | 82.0 > *p* >= 80.0 |
+| C+ | 80.0 > *p* >= 77.0 |
+| C  | 77.0 > *p* >= 72.0 |
+| C- | 72.0 > *p* >= 70.0 |
+| F | 70.0 > *p* |
+
+A+ grades may be awarded to students with top scores in the course who also demonstrate exceptional project quality/participation,
+at the instructors' discretion.
+
+**Homeworks.** There will be a total of 5-6 homework assignments with a mix of theoretical problems and coding problems. For details about the homework assignments, please see the [Homework]({{ site.baseurl }}{% link homework.md %}) page of this site.
 
 **Midterm Policy.** The in-class midterm during the usual lecture slot on **Tuesday, March 10, 2026 2:45pm - 4:45pm ET**. Please
 make sure you are available in-person on this day!
@@ -115,6 +133,8 @@ midterm. If you must miss the midterm due to an unexpected emergency or extenuat
 circumstance (and do not want to continue the course with a grade of zero on the midterm),
 you should bring this up with the instructors as soon as possible so we can possibly arrange
 assigning you a grade of “Incomplete.”
+
+More details about the midterm can be found on the [Midterm]({{ site.baseurl }}{% link midterm.md %}) page.
 
 **Lab Attendance.** Although lecture attendance is optional (though strongly recommended), lab attendance is an easy part 
 of your final grade. For each lab you attend, you will get 1 point; the lab attendance portion of your grade is then simply the
