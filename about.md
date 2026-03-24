@@ -76,7 +76,7 @@ Several other resources for brushing up on these subjects are:
 - **Lab Time:** Thursdays 7:10-8PM (in-person)
   - **Lab Location:** 238 Thompson St (GCASL) Room C95
 - **Instructor Office Hours:** 
-  - Sam: Tuesdays 5:00pm - 6:00pm (after class in CDS 242); Wednesdays 1:00pm - 2:00pm (CDS 242)
+  - Sam: Tuesdays 5:00pm - 6:00pm (after class in CDS 242); Wednesdays 1:00pm - 2:00pm ([Zoom](https://nyu.zoom.us/j/3198999242?pwd=b5wIc9bXsQMwWslfUybysQHOPy5Fby.1))
   - Nick: Wednesdays 3:00pm - 4:00pm (CDS 617)
   - For section leader office hours, check the [Staff]({{ site.baseurl }}{% link staff.md %}) page of the site
   - For changes in office hours, please keep an eye out on [Ed](https://edstem.org/) and the [Calendar]({{ site.baseurl }}{% link calendar.md %}) page of the site.
