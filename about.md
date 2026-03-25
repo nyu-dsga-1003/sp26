@@ -136,6 +136,11 @@ assigning you a grade of “Incomplete.”
 
 More details about the midterm can be found on the [Midterm]({{ site.baseurl }}{% link midterm.md %}) page.
 
+**"Clobber" Policy.** To allow improvements upon your midterm score you may not have wanted, we will allow the final project
+to potentially boost your grade. If your project grade is higher than your midterm grade, then **3% moves from midterm percentage to project percentage.**
+That is, if you your raw project grade is higher than your raw midterm grade, then the midterm will be weighted **32%** and your
+project will be weighted **38%**.
+
 **Lab Attendance.** Although lecture attendance is optional (though strongly recommended), lab attendance is an easy part 
 of your final grade. For each lab you attend, you will get 1 point; the lab attendance portion of your grade is then simply the
 number of labs you attended divided by 10. There are more than 10 labs in the course, so you can miss some of them and
