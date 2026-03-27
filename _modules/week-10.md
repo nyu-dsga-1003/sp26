@@ -7,4 +7,4 @@ Mar 24
     : *ESL* Ch. 8.2, Ch. 8.7, Ch. 9.2; *ISL* Ch. 8.1
 
 Mar 26
-: **Lab**{: .label .label-purple }
+: **Lab**{: .label .label-purple } [Lab 7: Multiclass Classification]({{ site.baseurl }}/assets/labs/lab7.pdf)

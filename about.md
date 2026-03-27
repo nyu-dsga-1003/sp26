@@ -136,7 +136,7 @@ assigning you a grade of “Incomplete.”
 
 More details about the midterm can be found on the [Midterm]({{ site.baseurl }}{% link midterm.md %}) page.
 
-**"Clobber" Policy.** To allow improvements upon your midterm score you may not have wanted, we will allow the final project
+**Partial "Clobber" Policy.** To allow improvements upon your midterm score you may not have wanted, we will allow the final project
 to potentially boost your grade. If your project grade is higher than your midterm grade, then **3% moves from midterm percentage to project percentage.**
 That is, if you your raw project grade is higher than your raw midterm grade, then the midterm will be weighted **32%** and your
 project will be weighted **38%**.
