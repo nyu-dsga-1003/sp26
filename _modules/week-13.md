@@ -7,4 +7,4 @@ Apr 14
 
 Apr 16
 : **Lab**{: .label .label-purple } [Lab 10: Structured Neural Networks]({{ site.baseurl }}/assets/labs/lab10.pdf)
-    : Raw [.ipynb file]({{ site.baseurl }}/assets/labs/lab10.pdf)
+    : Raw [.ipynb file]({{ site.baseurl }}/assets/labs/lab10.ipynb)
